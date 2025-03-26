@@ -18,8 +18,8 @@ The snø world record progression leaderboard
 
 
 | Week   | Player | Score   | Source                               | Seed       |
-| ------ | ------ | ------- | ------------------------------------ | ---------- |
-| 25CW11 | Nevir  | 7342026 | ![CW11_25_Nev](source/CW11_25_Nev.png)                | lost       |
+| :------: | :------: | :-------: | :------------------------------------: | :----------: |
+| 25CW11 | Nevir  | 7342026 | ![CW11_25_Nev](source/CW11_25_Nev.png) | lost       |
 | 25W12  | Nevir  | 7342026 | ![CW12_25_Nev](source/CW12_25_Nev.png) | #867932563 |
 
 
@@ -31,3 +31,4 @@ The snø world record progression leaderboard
 | BIG_Ian |   62548504   | 290225 |       ![I_290225_BIG](source/I_290225_BIG.png)        | #524665535  |
 | Azeroth |   77377296   | --0325 |        ![I_0325_Aze](source/I_0325_Aze.png)         | #1985553109 |
 |  Nevir  |  275383552   | --0325 |        ![I_0325_Nev](source/I_0325_Nev.png)         | #1026293249 |
+| Nevir | 578846016 | --0325 | ![I_200325_Nev](source/I_200325_Nev.png) | #1985553109 | 
