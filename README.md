@@ -7,7 +7,7 @@ The snø world record progression archive
 
 |            Player             |    Score    |  Date   |                   Source                    |    Seed     |
 | :---------------------------: | :---------: | :-----: | :-----------------------------------------: | :---------: |
-|             Nevir             |   845166    | 250225  |            !(source/S_250225_Nev.png)            | #4102658922 |
+|             Nevir             |   845166    | 250225  |            ![S_250225_Nev](source/S_250225_Nev.png)            | #4102658922 |
 | Whoopie Goldbergs Stank Belly |   1119229   | 260225  |            ![[S_260225_Who.png]]            |    lost     |
 |             Nevir             |  56203484   | 270225  |     https://youtu.be/eM1tbXk0l5A?t=106      | #1026293249 |
 |            Azeroth            |  175412384  | 040325  | https://www.youtube.com/watch?v=Sk2iJealgAg | #1026293249 |
