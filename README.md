@@ -1,8 +1,7 @@
 # snoe_leaderboard_old
 The snø world record progression leaderboard (***Old scoring system***) 
 
-For the new leaderboard, visit this repo:
-https://github.com/SynthSlayer/snoe_leaderboard
+> For the **new** leaderboard, visit this repo: https://github.com/SynthSlayer/snoe_leaderboard
 
 ---
 
