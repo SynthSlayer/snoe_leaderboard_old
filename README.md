@@ -22,7 +22,7 @@ The snø world record progression leaderboard (***Old scoring system***)
 | Week   | Player | Score   | Source                               | Seed       |
 | :------: | :------: | :-------: | :------------------------------------: | :----------: |
 | 25CW11 | Nevir  | 7342026 | ![CW11_25_Nev](source/CW11_25_Nev.png) | lost       |
-| 25CW12  | Nevir  | 7342026 | ![CW12_25_Nev](source/CW12_25_Nev.png) | #867932563 |
+| 25CW12  | Nevir  | 764507 | ![CW12_25_Nev](source/CW12_25_Nev.png) | #867932563 |
 
 
 ## Infinite Run
